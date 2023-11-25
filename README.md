@@ -8,6 +8,15 @@ BLog-Spot:
 
 ![image](https://github.com/shreevm/NM-LICET-Group-12/assets/75275922/e12823d5-7224-4ae8-8325-fb8d319c3344)
 
+Adding &updation of the  post:
+
+![image](https://github.com/shreevm/NM-LICET-Group-12/assets/75275922/ebbd80a7-f4e3-4afa-be73-db60ed64c375)
+
+![image](https://github.com/shreevm/NM-LICET-Group-12/assets/75275922/224d4e71-d992-41fe-ac8f-40879f5b0ae9)
+
+Adding comments:
+![Uploading image.png…]()
+
 
 Description:
 Develop a comprehensive educational demonstration of a React Java Spring Boot full-stack application. The application will feature a basic blog with essential functionalities including JWT authentication, the ability to create new users, and complete CRUD operations (Create, Retrieve, Update, Delete) for both posts and comments. Upon starting the application, the blog will be pre-populated with demo data. Users can either create new accounts or log in using any author's full name, with the password set as "password." Additionally, an administrator account is available with the username "admin" and password "admin."
