@@ -14,8 +14,9 @@ Adding &updation of the  post:
 
 ![image](https://github.com/shreevm/NM-LICET-Group-12/assets/75275922/224d4e71-d992-41fe-ac8f-40879f5b0ae9)
 
-Adding comments:
-![Uploading image.png…]()
+Adding new  comments:
+![image](https://github.com/shreevm/NM-LICET-Group-12/assets/75275922/c5ef5735-86a7-4712-8642-58148fc793b8)
+
 
 
 Description:
