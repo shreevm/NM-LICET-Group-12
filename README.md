@@ -20,9 +20,11 @@ Adding new  comments:
 
 
 Description:
+
 Develop a comprehensive educational demonstration of a React Java Spring Boot full-stack application. The application will feature a basic blog with essential functionalities including JWT authentication, the ability to create new users, and complete CRUD operations (Create, Retrieve, Update, Delete) for both posts and comments. Upon starting the application, the blog will be pre-populated with demo data. Users can either create new accounts or log in using any author's full name, with the password set as "password." Additionally, an administrator account is available with the username "admin" and password "admin."
 
 Implementation of Technologies :
+
 
 Frontend: React
 Utilize React for the user interface to create a dynamic and responsive web application.
